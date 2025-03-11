@@ -269,7 +269,7 @@ body {
     position: relative;
     perspective: 1500px;
     transform-style: preserve-3d;
-    animation: float 20s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    animation: float 20s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-image::before {
